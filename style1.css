@@ -1,0 +1,25 @@
+*{
+    .horizontal { 
+        display: flex;
+    }
+
+    .horizontal li {
+        margin-right: 30px; 
+    }
+
+    .horizontal2 { 
+        list-style-type: none; 
+        display: flex;
+    }
+
+    .horizontal2 li {
+        margin-right: 30px; 
+    }
+
+    .link {
+        position: absolute;
+        top: 50px; 
+        right: 50px; 
+    }
+
+}

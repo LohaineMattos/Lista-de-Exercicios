@@ -1,0 +1,38 @@
+*{
+    body {
+        margin: 0; 
+        font-family: Arial, sans-serif; 
+    }
+
+
+
+    table {
+        width: 50%;
+        border-collapse: collapse;
+        
+    }
+    th, td {
+        border: 0;
+        padding: 5px; 
+        text-align: left; 
+        align-content: center;
+    }
+    th {
+        background-color: #ffffff; 
+        font-weight: bold; 
+    }
+    tr:nth-child(even) {
+        background-color: #ffffff; 
+    }
+
+    tr {
+        border-bottom: 1px solid #ddd; 
+    }
+
+
+    .link {
+            position: absolute;
+            top: 50px; 
+            right: 50px; 
+    }
+}
